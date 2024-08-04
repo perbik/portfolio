@@ -1,0 +1,13 @@
+.navbar-collapse {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 100px;
+}
+
+.navbar-nav {
+  gap: 20px;
+}
+
+#title {
+  margin-left: 100px;
+}
